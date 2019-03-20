@@ -1,6 +1,6 @@
 #Gary Cunningham. 19/03/19
 # My program aims to all numbers between 1000 and 10000 which are divisible by 6 but not 12.
-# Adapted from class lecture content, python.org tutorials, learn solo mobile application and w3schools interactive tutorial learning.
+# Adapted from class lecture content, python.org tutorials, learn solo mobile application, programiz and w3schools interactive tutorial learning.
 my_list = range(1000, 10000)
 #using the range function to accurately get all numbers between 1000 and 10000.
 divisors = list(filter(lambda x: (x % 6 == 0) and not (x % 12 == 0), my_list))
