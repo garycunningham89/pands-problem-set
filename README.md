@@ -16,3 +16,5 @@ Found the formatting getting easier and the algorithm constructed was done by;
 4. Compiling and testing the program using range (), list (), filter () and lambda () as well as using the "%", "and" and "and not" to accurately produce output.  
 
 Solution 4 was completed with a lot of class tutorial content and the code basis was built alone through trial and error. The difficulty arose in using the newly seen functions def(), especially the recalling of it and the while loop and I had to consult w3schools and python.org for further information, which was there was quite an amount for this program and the processes contained.
+
+Solution 5 for the prime numbers was the first program which I attempted almost entirely by myself from reusing variations of learned class content and processes from Solutions 1 - 4. The "Eureka moment" has given confidence in programming and Python. Reused the def() function and completed it using if, elif and else statements. Tested function using a range of inputs to see if they were outputted as correctly as prime numbers or not.
