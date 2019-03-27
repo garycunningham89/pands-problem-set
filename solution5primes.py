@@ -17,6 +17,6 @@ def primes(num):
 #These outputs are not prime numbers.
     else:
         print("That is a prime number")
-#Any numbers not divisiable by 2 and 3 evenly, and are not 2 or 3 themselves, are prime numbers.
+#Any numbers not divisiable by 2 and 3 evenly, and that are not 2 or 3 themselves, are prime numbers.
 num = primes(int(n))
 #Called function at the end.
