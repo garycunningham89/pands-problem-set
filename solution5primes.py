@@ -1,6 +1,6 @@
 #Gary Cunningham. 25/03/19
 #My program intends to show whether or not an inputted positive integer is a prime number.
-#Adaptation from python tutorials, class content and w3schools.com interactive tutoriqls.
+#Adaptation from python tutorials, class content and w3schools.com interactive tutorials.
 #Attempted this solution alongside the inputs from  the learnings of previous solutions in this problem set.
 n = int(input("Please enter a positive integer: "))
 def primes(num):
