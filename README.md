@@ -4,6 +4,15 @@ Kept up to date with the content in the lecture videos and thought I had the gra
 Began the problem set the week after it was released. And realised I had no idea what I was doing.
 I took a break and focused on following content and completing exercises in other modules.
 Came back at the beginning of March and it took quite a while to complete problem 1 as I wanted to try my own algorithms and input unique codes. Found this very difficult so then I began looking at supplementary reading and resources.
+
+The following is a list of references which were used while compiling this problem set.
+Reference List:
+1) Github. https://github.com/.
+2)GMIT. Quality assurance framework. https://www.gmit.ie/general/quality-assurance-framework.
+3) Python.org Tutorials. https://www.docs.python.org/.
+4) w3Schools Interative Tutorials. https://www.w3schools.com/.
+5) Programiz Tutorials and Examples. https://www.programiz.com.
+6) Stackoverflow Examples. https://stackoverflow.com
 Solutions 1 was completed with the help of class content and python.org tutorials.
 
 Solution 2 I had continued trying to learn as much about Python as possible before returning to the problem set but still had a difficult time creating the solution. I finally had a eureka moment when completing the Begins with T program. I done a lot of interactive tutorial work on w3schools.com and I found these very helpful and hope to use these alongside other resources to learn and understand further.

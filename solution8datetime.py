@@ -1,6 +1,6 @@
 #Gary Cunningham 29/03/19
-#My program intends to calculate the square root of any inputted positive number and output an approximation to one decimal place.
-#Adaptation from python tutorials, class content and w3schools.com interactive tutorials
+#My program intends to output the date and time in the format Day, Month Date Year at Time(am/pm).
+#Adaptation from python tutorials, class content and w3schools.com interactive tutorials.
 
 import datetime
 # Called datetime as learned in tutorials and previous solution.
