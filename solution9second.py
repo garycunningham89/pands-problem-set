@@ -25,4 +25,4 @@ for words in chapter1:
 # Same function as solution 6 where ::2 was used for every second line and break to finish loop. This time joined with ".".
 # Using "." instead of "\n" or " " so that sentences are outputted same as where they were split.
 file.close()
-# Ensuring to close file to complete program.
+# Ensuring to close file at the end to complete program.
