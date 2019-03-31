@@ -13,10 +13,10 @@ def primes(num):
 #Calling 2 and 3 as prime numbers, the first two in the set. using "Elif".
     elif (n % 2 == 0) or (n % 3 == 0):
         print("That is not a prime number")
-#Using the modulo function for any number greated than 3 to calculated if their is a remainder when divided by 2 or 3.
-#These outputs are not prime numbers.
+# Using the modulo function for any number greated than 3 to calculated if their is a remainder when divided by 2 or 3.
+# These outputs are not prime numbers.
     else:
         print("That is a prime number")
 #Any numbers not divisiable by 2 and 3 evenly, and that are not 2 or 3 themselves, are prime numbers.
 num = primes(int(n))
-#Called function at the end.
+# Calling function at the end.

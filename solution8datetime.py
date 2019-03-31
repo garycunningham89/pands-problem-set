@@ -18,7 +18,7 @@ def ordinal(num):
     else:
         print(num + "th")
         # All else between 1 - 31 except above end with "th".
-    return(str(num))
+    return (str(num))
       
 import datetime
 date = datetime.datetime.now()

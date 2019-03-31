@@ -7,7 +7,7 @@ import math
 ans = math.sqrt(n)
 # Found this built in function on the Python.org tutorial page. 
 print("The square root of", n, "is approx", round(ans, 1))
-# Print the suggested outputted including the round() function to ensure the float is limited to one decimal place.
+# Printing the suggested outputted including the round() function to ensure the float is limited to one decimal place.
 
 
 
